@@ -1,0 +1,6 @@
+{
+  "name": "DulceCaja - Registro y Ventas",
+  "description": "Punto de venta minimalista e intuitivo para confitería y dulces con emisión de tickets y reportes rápidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
